@@ -18,6 +18,8 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color:#39a0ca ;
+    position: sticky;
+  top: 0;
   }
   
   li {
@@ -47,4 +49,7 @@ ul {
   }
   #textwithin{
       padding-left: 10px;
+  }
+  #photowithin{
+      display:inline-block;
   }
