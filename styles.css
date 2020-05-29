@@ -20,6 +20,7 @@ ul {
     background-color:#39a0ca ;
     position: sticky;
   top: 0;
+  box-shadow: 5px 5px 2.5px grey;
   }
   
   li {
@@ -39,14 +40,18 @@ ul {
   }
   
   li a:hover {
-    background-color: #f95d9b;
+    
+    
+    border-color: #f95d9b;
+    border-style:none none solid none;
   }
   #boxes{
     font-family: 'Andika';
     background-color:#39a0ca;
     color:white;
+    border-color:#f95d9b;
     border-style:solid;
-    border-color:#f95d9b;'
+    box-shadow: 10px 10px 5px grey;
     
   }
   #textwithin{
