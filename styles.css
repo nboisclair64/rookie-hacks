@@ -1,3 +1,36 @@
 .titlename{
     font-family:'Annie Use Your Telescope';
+    text-align:center;
+    
+    font-size: 60px;
+    color: linear-gradient(yellow, white);
 }
+body{
+    background-color:white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#409af6 ;
+  }
+  
+  li {
+    float: left;
+    padding-left:80px;
+    font-family: 'Archivo Narrow';
+    font-size:20px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: d1da5f;
+  }
