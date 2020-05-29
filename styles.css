@@ -99,6 +99,7 @@ button{
   
 }
 #recipe1{
+  display:none;
   background-color:#39a0ca;
   font-family: 'Andika'; 
   border-style: solid;
