@@ -89,5 +89,19 @@ ul {
       
       
   }
+button{
+  background-color:#39a0ca;
+  border-style: solid;
+  border-color: #f95d9b; 
+  font-size:20px;
+  font-family: 'Andika'; 
+  color:white;
   
-  
+}
+#recipe1{
+  background-color:#39a0ca;
+  font-family: 'Andika'; 
+  border-style: solid;
+  border-color: #f95d9b; 
+  color:white;
+}
