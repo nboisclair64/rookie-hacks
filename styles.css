@@ -69,11 +69,11 @@ ul {
   .image{
       padding-top:10px;
       padding-bottom:10px;
-      padding-right: 5px;
-      padding-left:0px;
-     height: 170px;
-     width: 170px;
-     border-radius:20px;
+      padding-right:1vw;
+      padding-left:2vw;
+      height: 170px;
+      width: 170px;
+      border-radius:2vw;
       
       
   }
