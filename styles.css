@@ -56,7 +56,7 @@ ul {
   }
   #textwithin{
       padding-left: 10px;
-      
+      padding-right:3px;
   
   }
   .stuff1{
@@ -69,7 +69,7 @@ ul {
   .image{
       padding-top:10px;
       padding-bottom:10px;
-      padding-right: 0px;
+      padding-right: 5px;
       padding-left:0px;
      height: 170px;
      width: 170px;
