@@ -93,16 +93,23 @@ button{
   background-color:#39a0ca;
   border-style: solid;
   border-color: #f95d9b; 
-  font-size:20px;
+  font-size:25px;
   font-family: 'Andika'; 
   color:white;
+  display: block;
   
 }
-#recipe1{
+#recipe1,#recipe2,#recipe3,#recipe4{
   display:none;
   background-color:#39a0ca;
   font-family: 'Andika'; 
   border-style: solid;
   border-color: #f95d9b; 
   color:white;
+  text-align: left;
+  
+}
+
+.extra{
+  padding-top:30px;
 }
