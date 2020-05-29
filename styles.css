@@ -2,8 +2,11 @@
     font-family:'Annie Use Your Telescope';
     text-align:center;
     
-    font-size: 60px;
-    color: linear-gradient(yellow, white);
+    font-size: 65px;
+    background-image: linear-gradient(#b9c509, white);
+    background-size:100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
 }
 body{
     background-color:white;
