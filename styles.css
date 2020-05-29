@@ -46,7 +46,8 @@ ul {
     background-color:#39a0ca;
     color:white;
     border-style:solid;
-    border-color:#f95d9b;
+    border-color:#f95d9b;'
+    
   }
   #textwithin{
       padding-left: 10px;
@@ -62,6 +63,7 @@ ul {
   }
   .image{
       padding-top:10px;
+      padding-bottom:10px;
       padding-right: 5px;
       padding-left:5px;
      height: 170px;
