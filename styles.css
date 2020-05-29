@@ -38,3 +38,13 @@ ul {
   li a:hover {
     background-color: #f95d9b;
   }
+  #boxes{
+    font-family: 'Archivo Narrow';
+    background-color:#39a0ca;
+    color:white;
+    border-style:solid;
+    border-color:#f95d9b;
+  }
+  #textwithin{
+      padding-left: 10px;
+  }
