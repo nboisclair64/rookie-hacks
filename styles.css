@@ -24,9 +24,10 @@ ul {
   
   li {
     float: left;
-    padding-left:80px;
-    font-family: 'Archivo Narrow';
-    font-size:20px;
+    padding-left:72px;
+    font-family: 'Andika';
+    font-size:15px;
+    font-weight:bold;
   }
   
   li a {
@@ -41,7 +42,7 @@ ul {
     background-color: #f95d9b;
   }
   #boxes{
-    font-family: 'Archivo Narrow';
+    font-family: 'Andika';
     background-color:#39a0ca;
     color:white;
     border-style:solid;
@@ -49,7 +50,21 @@ ul {
   }
   #textwithin{
       padding-left: 10px;
+      
+  
   }
-  #photowithin{
-      display:inline-block;
+  .stuff1{
+    display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  padding:3px;
+  
   }
+  .image{
+      padding-left:230px;
+     
+      
+      
+  }
+  
+  
