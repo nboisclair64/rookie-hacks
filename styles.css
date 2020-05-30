@@ -63,9 +63,19 @@ ul {
     color:white;
     border-color:#f95d9b;
     border-style:solid;
-    box-shadow: 10px 10px 5px grey;
+    box-shadow: 7px 7px 3px grey;
     
   }
+  #boxes2{
+    font-family: 'Andika';
+    background-color:#39a0ca;
+    color:white;
+    border-color:#f95d9b;
+    border-style:solid;
+    
+    
+  }
+
   #textwithin{
       padding-left: 10px;
       padding-right:3px;
@@ -105,6 +115,14 @@ ul {
   margin-right: auto;
 
   }
+  .image4{
+    padding-top:10px;
+      padding-bottom:10px;
+      padding-right:1vw;
+      padding-left:4vw;
+      height: 170px;
+      width: 200px;
+  }
 
 button{
   background-color:#39a0ca;
@@ -135,4 +153,10 @@ button{
 }
 .back{
   padding-left:5px;
+}
+.chef{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:40%;
 }
