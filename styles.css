@@ -113,16 +113,29 @@ ul {
       height: 170px;
       width: 170px;
      
-     
+  
   }
+
+/*countries image 2,5-8*/
 .image2{
   width: 95vw;
   height: 50vw;
   display: block;
   margin-left: auto;
   margin-right: auto;
-
+  position: absolute;
   }
+  .image5 { 
+    position: relative;
+    width:3vw;
+    height:3vw;
+    padding-left:11vw;
+    padding-top: 6vw;
+   }
+  
+  
+
+
   .image4{
     padding-top:10px;
       padding-bottom:10px;
