@@ -222,7 +222,7 @@ ul {
   
   }
 
-/*countries image 2,5-8*/
+/*countries image 2,5-7*/
 .image2{
   width: 95vw;
   height: 50vw;
@@ -235,12 +235,22 @@ ul {
     position: relative;
     width:3vw;
     height:3vw;
-    padding-left:11vw;
-    padding-top: 6vw;
+    margin-left:11vw;
+    margin-top: 9vw;
+   }
+  .image6 { 
+    position: relative;
+    width:3vw;
+    height:3vw;
+    margin-left:30vw;
    }
   
-  
-
+   .image7 { 
+    position: relative;
+    width:3vw;
+    height:3vw;
+    margin-left:17vw;
+   }
 
   .image4{
     padding-top:10px;
