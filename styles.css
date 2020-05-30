@@ -190,6 +190,7 @@ button{
   border-color: #f95d9b; 
   color:white;
   text-align: left;
+  padding-left:10px;
 }
 
 .extra{
