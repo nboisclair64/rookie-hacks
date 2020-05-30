@@ -311,26 +311,33 @@ button{
   width:40%;
 }
 input[type=text], select, textarea {
-  width: 100%; 
-  padding: 12px;  
-  border: 1px solid #ccc; 
+  width: 90vw;
+  margin-left:1vw;
+  font-size: 2vw;
+  background: transparent;
+  padding: 12px; 
+  border:none; 
+  border-bottom:4px dotted #abe0f5; 
   border-radius: 4px; 
-  box-sizing: border-box;
   margin-top: 6px; 
   margin-bottom: 16px;
   resize: vertical 
 }
 
 input[type=submit] {
-  background-color: #4CAF50;
+  background-color: #f95d9b;
   color: white;
   padding: 12px 20px;
   border: none;
-  border-radius: 4px;
+  border-radius: 1vw;
   cursor: pointer;
+  width:15vw;
+  font-size: 1.5vw;
 }
 
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: lightblue;
 }
+
+
