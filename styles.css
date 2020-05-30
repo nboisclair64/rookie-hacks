@@ -245,7 +245,13 @@ input[type=submit] {
 input[type=submit]:hover {
   background-color: lightblue;
 }
-.options{
-  background-color:white;
+
+
+.custom-select {
+  font-family: cursive;
 }
+
+
+
+
 
