@@ -313,7 +313,7 @@ button{
 input[type=text], select, textarea {
   width: 90vw;
   margin-left:1vw;
-  font-size: 2vw;
+  font-size: 1.5vw;
   background: transparent;
   padding: 12px; 
   border:none; 
@@ -322,6 +322,11 @@ input[type=text], select, textarea {
   margin-top: 6px; 
   margin-bottom: 16px;
   resize: vertical 
+}
+
+::placeholder { 
+  color: white;
+  opacity: 1; 
 }
 
 input[type=submit] {
