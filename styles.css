@@ -1,107 +1,3 @@
-/*
-html5doctor.com Reset Stylesheet
-v1.6.1
-Last Updated: 2010-09-17
-Author: Richard Clark - http://richclarkdesign.com
-Twitter: @rich_clark
-*/
-
-html, body, div, span, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-abbr, address, cite, code,
-del, dfn, em, img, ins, kbd, q, samp,
-small, strong, sub, sup, var,
-b, i,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, summary,
-time, mark, audio, video {
-    margin:0;
-    padding:0;
-    border:0;
-    outline:0;
-    font-size:100%;
-    vertical-align:baseline;
-    background:transparent;
-}
-
-body {
-    line-height:1;
-}
-
-article,aside,details,figcaption,figure,
-footer,header,hgroup,menu,nav,section {
-    display:block;
-}
-
-nav ul {
-    list-style:none;
-}
-
-blockquote, q {
-    quotes:none;
-}
-
-blockquote:before, blockquote:after,
-q:before, q:after {
-    content:'';
-    content:none;
-}
-
-a {
-    margin:0;
-    padding:0;
-    font-size:100%;
-    vertical-align:baseline;
-    background:transparent;
-}
-
-/* change colours to suit your needs */
-ins {
-    background-color:#ff9;
-    color:#000;
-    text-decoration:none;
-}
-
-/* change colours to suit your needs */
-mark {
-    background-color:#ff9;
-    color:#000;
-    font-style:italic;
-    font-weight:bold;
-}
-
-del {
-    text-decoration: line-through;
-}
-
-abbr[title], dfn[title] {
-    border-bottom:1px dotted;
-    cursor:help;
-}
-
-table {
-    border-collapse:collapse;
-    border-spacing:0;
-}
-
-/* change border colour to suit your needs */
-hr {
-    display:block;
-    height:1px;
-    border:0;  
-    border-top:1px solid #cccccc;
-    margin:1em 0;
-    padding:0;
-}
-
-input, select {
-    vertical-align:middle;
-}
-
-/*our code */
 .titlename{
     font-family:'Annie Use Your Telescope';
     text-align:center;
@@ -111,8 +7,8 @@ input, select {
     
     background-size:100%;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-     text-shadow: 0 1px 0 #f95d9b,
+    -webkit-text-fill-color: transparent; 
+    text-shadow: 0 1px 0 #f95d9b,
                0 2px 0 #e96398,
                0 3px 0 #f5488d,
                0 4px 0 #f1468b,
@@ -169,6 +65,7 @@ ul {
     border-style:solid;
 
     box-shadow: 10px 10px 5px grey;
+<<<<<<< HEAD
     border-radius: 5px;
 
     box-shadow: 7px 7px 3px grey;
@@ -182,6 +79,8 @@ ul {
     border-color:#f95d9b;
     border-style:solid;
     
+=======
+>>>>>>> parent of 0669048... Update styles.css
     
   }
 
@@ -195,8 +94,6 @@ ul {
   align-items: flex-start;
   flex-wrap: nowrap;
   padding:3px;
-  border-radius: 5px;
-  padding: 20px;
   
   }
   .image{
@@ -264,6 +161,7 @@ button{
 }
 .back{
   padding-left:5px;
+<<<<<<< HEAD
 }
 
 
@@ -311,3 +209,6 @@ input[type=submit]:hover {
   width:40%;
 }
 
+=======
+}
+>>>>>>> parent of 0669048... Update styles.css
