@@ -194,7 +194,7 @@ ul {
   
   }
   .stuff1{
-    display: flex;
+  display: flex;
   align-items: flex-start;
   flex-wrap: nowrap;
   padding:3px;
