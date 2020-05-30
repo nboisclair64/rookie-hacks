@@ -183,6 +183,14 @@ button{
   text-align: left;
   
 }
+#recipe{
+  background-color:#39a0ca;
+  font-family: 'Andika'; 
+  border-style: solid;
+  border-color: #f95d9b; 
+  color:white;
+  text-align: left;
+}
 
 .extra{
   padding-top:35px;
@@ -253,7 +261,12 @@ input[type=submit]:hover {
 .image9{
   display:none;
 }
-
+.title2{
+  font-size:20px;
+}
+a{
+  text-decoration:none;
+}
 
 
 
