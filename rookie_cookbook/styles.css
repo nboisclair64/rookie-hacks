@@ -1,0 +1,275 @@
+
+
+
+
+
+/*our code */
+.titlename{
+    font-family:'Annie Use Your Telescope';
+    text-align:center;
+    
+    font-size: 65px;
+    background-color:#f95d9b;
+    
+    background-size:100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    text-shadow: 0 1px 0 #f95d9b,
+               0 2px 0 #e96398,
+               0 3px 0 #f5488d,
+               0 4px 0 #f1468b,
+               0 5px 0 #f33883,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+}
+body{
+    background-color:#fceed1;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#39a0ca ;
+    position: sticky;
+  top: 0;
+  box-shadow: 5px 5px 2.5px grey;
+  }
+  
+  li {
+    float: left;
+    padding-left:5vw;
+    font-family: 'Andika';
+    font-size:15px;
+    font-weight:bold;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    
+    
+    border-color: #f95d9b;
+    border-style:none none solid none;
+
+  }
+  #boxes{
+    font-family: 'Andika';
+    background-color:#39a0ca;
+    color:white;
+    border-color:#f95d9b;
+    border-style:solid;
+
+    box-shadow: 10px 10px 5px grey;
+
+    border-radius: 5px;
+
+    box-shadow: 7px 7px 3px grey;
+
+    
+  }
+  #boxes2{
+    font-family: 'Andika';
+    background-color:#39a0ca;
+    color:white;
+    border-color:#f95d9b;
+    border-style:solid;
+    
+
+    
+  }
+
+  #textwithin{
+      padding-left: 10px;
+      padding-right:3px;
+  
+  }
+  .stuff1{
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  padding:3px;
+  border-radius: 5px;
+  padding: 20px;
+  
+  }
+  .image{
+      padding-top:10px;
+      padding-bottom:10px;
+      padding-right:1vw;
+      padding-left:4vw;
+      height: 170px;
+      width: 170px;
+     
+  }
+  .image3{
+    padding-top:10px;
+      padding-bottom:10px;
+      padding-right:1vw;
+      padding-left:4vw;
+      height: 170px;
+      width: 170px;
+     
+  
+  }
+
+/*countries image 2,5-7*/
+.image2{
+  width: 95vw;
+  height: 50vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  }
+  .image5 { 
+    position: relative;
+    width:3vw;
+    height:3vw;
+    margin-left:11vw;
+    margin-top: 9vw;
+   }
+  .image6 { 
+    position: relative;
+    width:3vw;
+    height:3vw;
+    margin-left:30vw;
+   }
+  
+   .image7 { 
+    position: relative;
+    width:3vw;
+    height:3vw;
+    margin-left:17vw;
+   }
+
+  .image4{
+    padding-top:10px;
+      padding-bottom:10px;
+      padding-right:1vw;
+      padding-left:4vw;
+      height: 170px;
+      width: 200px;
+  }
+
+button{
+  background-color:#39a0ca;
+  border-style: solid;
+  border-color: #f95d9b; 
+  font-size:25px;
+  font-family: 'Andika'; 
+  color:white;
+  display: block;
+  
+}
+#recipe1,#recipe2,#recipe3,#recipe4{
+  display:none;
+  background-color:#39a0ca;
+  font-family: 'Andika'; 
+  border-style: solid;
+  border-color: #f95d9b; 
+  color:white;
+  text-align: left;
+  
+}
+#recipe{
+  background-color:#39a0ca;
+  font-family: 'Andika'; 
+  border-style: solid;
+  border-color: #f95d9b; 
+  color:white;
+  text-align: left;
+  padding-left:10px;
+}
+
+.extra{
+  padding-top:35px;
+}
+.moveover{
+  padding-left:5px;
+}
+.back{
+  padding-left:5px;
+}
+
+
+
+
+
+.container {
+  border-radius: 5px;
+  padding: 20px;
+}
+
+
+
+.chef{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:40%;
+}
+input[type=text], select, textarea {
+  width: 90vw;
+  margin-left:1vw;
+  font-size: 1.5vw;
+  background: transparent;
+  padding: 12px; 
+  border:none; 
+  border-bottom:4px dotted #abe0f5; 
+  border-radius: 4px; 
+  margin-top: 6px; 
+  margin-bottom: 16px;
+  resize: vertical 
+}
+
+::placeholder { 
+  color: white;
+  opacity: 1; 
+}
+
+input[type=submit] {
+  background-color: #f95d9b;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 1vw;
+  cursor: pointer;
+  width:15vw;
+  font-size: 1.5vw;
+}
+
+
+input[type=submit]:hover {
+  background-color: lightblue;
+}
+
+
+.custom-select {
+  font-family: cursive;
+}
+.image9{
+  display:none;
+}
+.title2{
+  font-size:20px;
+}
+a{
+  text-decoration:none;
+}
+
+
+
+
+
